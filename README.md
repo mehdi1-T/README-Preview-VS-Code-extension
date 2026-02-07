@@ -1,10 +1,11 @@
-# README Preview Pro VScode extension
+# [README Preview Pro VScode extension](https://marketplace.visualstudio.com/items?itemName=MehdiTalalha.readme-preview-pro)
 
 A VS Code extension that allows you to preview your README files with GitHub-style rendering before pushing to GitHub.
 
 ## Preview
 
-![Preview image](https://github.com/mehdi1-T/README-Preview-VS-Code-extension/blob/main/assets/image%20copy.png)
+![Preview image](https://github.com/mehdi1-T/README-Preview-VS-Code-extension/assets/image-copy.png)
+
 
 ## Features
 
@@ -21,4 +22,4 @@ A VS Code extension that allows you to preview your README files with GitHub-sty
 - Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
 - Press `Ctrl+Space` to see a list of Markdown snippets
 
-**Enjoy!**
+## **Enjoy!** 😊
