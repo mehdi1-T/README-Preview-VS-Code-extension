@@ -4,7 +4,7 @@ A VS Code extension that allows you to preview your README files with GitHub-sty
 
 ## Preview
 
-![Preview image](https://github.com/mehdi1-T/README-Preview-VS-Code-extension/assets/image-copy.png)
+![Preview image](https://github.com/mehdi1-T/README-Preview-VS-Code-extension/blob/main/assets/image-copy.png)
 
 
 ## Features
