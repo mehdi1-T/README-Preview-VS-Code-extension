@@ -2,6 +2,10 @@
 
 A VS Code extension that allows you to preview your README files with GitHub-style rendering before pushing to GitHub.
 
+## Preview
+
+![Preview image](https://github.com/mehdi1-T/README-Preview-VS-Code-extension/tree/main/assets/assets/image-1.png)
+
 ## Features
 
 - 🚀 **Activity Bar Integration**: Dedicated icon in the Activity Bar for easy access
@@ -13,9 +17,7 @@ A VS Code extension that allows you to preview your README files with GitHub-sty
 
 
 
-## Working with Markdown
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
+## Shortcuts
 - Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
 - Press `Ctrl+Space` to see a list of Markdown snippets
 
