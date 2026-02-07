@@ -1,8 +1,9 @@
 {
-  "name": "readme-preview",
-  "displayName": "README Preview",
+  "name": "readme-preview-pro",
+  "displayName": "README Preview Pro",
   "description": "Preview your README files with GitHub-style rendering before pushing to GitHub",
   "version": "0.0.1",
+  "icon": "assets/image.png",
   "keywords": [
     "readme",
     "preview",
@@ -10,11 +11,16 @@
     "github",
     "documentation"
   ],
-  "publisher": "Mehdi Talalha",
+  "publisher": "MehdiTalalha",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mehdi1-T/README-Preview-VS-Code-extension"
+  },
+  "license": "MIT",
   "engines": {
     "vscode": "^1.109.0"
   },
-  "categories": [
+  "categories": [ 
     "Other",
     "Visualization"
   ],
