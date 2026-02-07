@@ -1,10 +1,10 @@
-# README Preview
+# README Preview Pro VScode extension
 
 A VS Code extension that allows you to preview your README files with GitHub-style rendering before pushing to GitHub.
 
 ## Preview
 
-![Preview image](https://github.com/mehdi1-T/README-Preview-VS-Code-extension/assets/image-1.png)
+![Preview image](https://github.com/mehdi1-T/README-Preview-VS-Code-extension/blob/main/assets/image%20copy.png)
 
 ## Features
 
